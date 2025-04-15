@@ -1,0 +1,6 @@
+transformers
+torch
+numpy
+chromadb
+onnxruntime-gpu==1.17.1
+streamlit
